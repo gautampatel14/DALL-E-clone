@@ -1,0 +1,4 @@
+1 vite // for frame work..
+2 tailwand css for vite
+3 file-saver
+4 react-router-dom
